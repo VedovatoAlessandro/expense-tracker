@@ -3,9 +3,6 @@
 A simple Python Program to keep track of your personal expenses, designed for absolute beginners.
 
 
-
-
-
 ## Features
 
 - **Add expenses** with date, category, amount, and description
